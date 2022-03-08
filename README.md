@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework AngularJs, reactJs .**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 - 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language console Application Problem.
 
