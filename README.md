@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Web and Mobile Application developer  from India.</h3>
 
 
-## 🙋‍♂️ About Me
+🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework AngularJs, reactJs .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language console Application Problem.
 
 - 📫 How to reach me **yashbhayani3007@gmail.com**
 
