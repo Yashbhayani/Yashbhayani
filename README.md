@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://icons8.com/icon/45490/c-sharp-logo-2" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-<a href="https://icons8.com/icon/45490/c-sharp-logo-2" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="04%"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="04.1%"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 <a href="https://icons8.com/icon/40253/jquery"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/></a>
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/39856/php-logo" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-
 <br>
 
 🚀 Languages and Tools:
