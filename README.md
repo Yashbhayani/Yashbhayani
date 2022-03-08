@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **yashbhayani3007@gmail.com**
 
-- ⚡ Fun fact **Student at Sal College of Engineering**
+- 👨‍🎓 **Student at Sal College of Engineering**
 
 👨‍💻 Skills:
 
@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text"><img src="https://img.icons8.com/fluency/48/4a90e2/sublime-text.png"/></a>
 
 </p>
-<br/>
 
 </p>
 👨🏼‍🤝‍👨🏼 Connect with me:
