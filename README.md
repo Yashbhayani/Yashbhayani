@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/y7WGoWNuIWac/visual-studio"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
 <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
 <a href="https://icons8.com/icon/EgOU93v1DHjU/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/></a>
-<a href="https://icons8.com/icon/61466/intellij-idea"><img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/></a>
+<!-- <a href="https://icons8.com/icon/61466/intellij-idea"><img src="https://img.icons8.com/color/48/4a90e2/intellij-idea.png"/></a> -->
+ <a href="https://icons8.com/icon/61466/intellij-idea"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/></a> -->
 <a href="https://icons8.com/icon/3RRyVoX2tVGU/eclipse-an-integrated-development-environment-used-in-computer-programming"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/4a90e2/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-shadow-tal-revivo.png"/></a>
 <a href="https://icons8.com/icon/117121/pycharm"><img src="https://img.icons8.com/color/48/4a90e2/pycharm.png"/></a>
 <a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text"><img src="https://img.icons8.com/fluency/48/4a90e2/sublime-text.png"/></a>
