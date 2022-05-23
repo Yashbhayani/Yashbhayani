@@ -70,3 +70,8 @@ Here are some ideas to get you started:
 <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mr.yash_patel_18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+<div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+    <img align="center" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ajaysinh1290&layout=compact&langs_count=8&title_color=F58529](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529)"/>
+</div>
