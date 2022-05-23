@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework AngularJs, reactJs .**
+- 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework Angular, reactJs .**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
