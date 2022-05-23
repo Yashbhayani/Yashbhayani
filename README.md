@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
-    <img align="center" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ajaysinh1290&layout=compact&langs_count=8&title_color=F58529](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529)"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
 </div>
