@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yash Bhayani</h1>
 <!-- <h3 align="center">I'm a Web and Mobile Application developer  from India.</h3> -->
-<h3 align="center">I'm a Web and Application developer  from India.</h3>
+<h3 align="center">I'm a Web and App developer.</h3>
 
 🙋‍♂️ About Me
 
