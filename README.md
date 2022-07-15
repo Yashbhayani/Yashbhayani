@@ -71,8 +71,12 @@ Here are some ideas to get you started:
 <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/mr.yash_patel_18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yash-bhayani-3328b4195" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yash-bhayani-3328b4195?trk=profile-badge">Yash Bhayani</a></div>
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yash-bhayani-3328b4195" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yash-bhayani-3328b4195?trk=profile-badge">Yash Bhayani</a></div>
               
+              
+
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
