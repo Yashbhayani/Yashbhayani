@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!-- <h3 align="center">I'm a Web and Mobile Application developer  from India.</h3> -->
 <h3 align="center">Web and App developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani&label=Profile%20views&color=0e75b6&style=flat" alt="Yashbhayani" /> </p>
+
 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework Angular, reactJs .**
