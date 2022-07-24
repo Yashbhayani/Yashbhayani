@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <h3 align="center">Web and App developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani&label=Profile%20views&color=0e75b6&style=flat" alt="Yashbhayani" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="YashBhayani" /></a> </p>
+
 
 🙋‍♂️ About Me
 
@@ -78,4 +80,5 @@ Here are some ideas to get you started:
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yashbhayani" /></p>
 </div>
