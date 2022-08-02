@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, and Machine Learning.**
+- 🌱 I’m currently learning **Data Structures Algorithms, and Machine Learning.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
