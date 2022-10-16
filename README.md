@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> </a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a>
-<a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/000000/express-js.png"/></a>
+<a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
