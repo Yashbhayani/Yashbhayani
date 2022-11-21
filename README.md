@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language console Application Problem.
+- 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language Problem.
 
 - 📫 How to reach me **yashbhayani3007@gmail.com**
 
