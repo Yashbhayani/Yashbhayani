@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 👨🏼‍🤝‍👨🏼 Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/mr.yash_patel_18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/yashbhayani18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
               
 
