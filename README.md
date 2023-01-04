@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 </div>
 <div>
      <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/> </p>
+    <p> <img  src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" /></p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
 </div>
