@@ -87,6 +87,9 @@ Here are some ideas to get you started:
 </p>
 
 <div>
+ <div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+ </div>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
 
 <div align="center">
