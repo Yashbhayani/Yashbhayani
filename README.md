@@ -86,7 +86,8 @@ Here are some ideas to get you started:
 <a href = "https://www.instagram.com/yashbhayani18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-
+<div>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
 
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
@@ -94,11 +95,7 @@ Here are some ideas to get you started:
     <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" /></p>
 </div>
-<div>
-     <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/> </p>
-    <p> <img  src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" /></p>
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
 </div>
 
 
