@@ -44,23 +44,24 @@ Here are some ideas to get you started:
 <a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://icons8.com/icon/45490/c-sharp-logo-2" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-<!-- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  width="40" height="40"/> </a> -->
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/dotnet-283005.png?w=48"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-<a href="https://icons8.com/icon/40253/jquery"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://icons8.com/icon/39856/php-logo" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+
+<!-- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"  width="40" height="40"/> </a> -->
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/dotnet-283005.png?w=48"/> </a>
+<a href="https://icons8.com/icon/40253/jquery"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/></a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> </a>
-<a href="https://firebase.google.com" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+<a href="https://firebase.google.com" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a>
 
 
