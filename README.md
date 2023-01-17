@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 💬 Ask me about JavaScript, Asp.Net MVC C#, Java and Any Programming Questions problem.
+- 💬 Ask me about Any Programming Language problem.
 
 - 📫 How to reach me **yashbhayani3007@gmail.com**
 
