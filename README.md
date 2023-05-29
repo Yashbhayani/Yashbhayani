@@ -18,7 +18,7 @@
  
  👯 I’m looking to collaborate on **OpenSource Projects**
 
- 💬 Ask me about any Programming, DSA, Competitive Programming.
+ 💬 Ask me about any programming language, DSA, Competitive Programming.
 
  📫 How to reach me **yashbhayani3007@gmail.com**
  
