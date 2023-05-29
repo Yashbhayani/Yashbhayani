@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yash Bhayani</h1>
 
-<h3 align="center">Web and App developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 <div  align="center">
  
