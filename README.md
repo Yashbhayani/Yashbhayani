@@ -25,8 +25,9 @@ Here are some ideas to get you started:
  </div>
 
 <!-- Hi there 👋 -->
-
+<div align="center">
 🙋‍♂️ About Me
+ <pre>👨‍🙋‍♂️ A B O U T M E</pre>
 
 - 🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
 
@@ -37,7 +38,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **yashbhayani3007@gmail.com**
 
 <!-- - 👨‍🎓 **Student at Sal College of Engineering** -->
-
+ <div>
+<br>
 <div align="center">
  <pre>👨‍💻 S K I L L S</pre>
     <a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
