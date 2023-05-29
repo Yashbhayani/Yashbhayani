@@ -61,12 +61,10 @@
  
   <pre>🗒️ D A T A B A S E</pre>
  
-   <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-
-    server.png"/></a>
-   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql- 
-    logo.png"/> </a>
-   <a href="https://firebase.google.com" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png"/></a>
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a>
+ <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+ <a href="https://firebase.google.com" target="_blank"><img src="https://img.icons8.com/color/48/null/firebase.png"/></a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/> </a>
 
 </div>
 
