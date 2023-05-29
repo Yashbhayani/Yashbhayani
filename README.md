@@ -110,11 +110,9 @@
 
 <br>
 
-<div>
- 
+<div align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" />
  <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
-
 </div>
 
 
