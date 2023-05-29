@@ -111,7 +111,7 @@
 <br>
 
 <div align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani&show_icons=true&include_all_commits=true&title_color=F58529&icon_color=F58529"" alt="Yash Bhayani" />
  <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
 </div>
 
