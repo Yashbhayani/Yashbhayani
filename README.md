@@ -18,7 +18,7 @@
  
  👯 I’m looking to collaborate on **OpenSource Projects**
 
- 💬 Ask me about any programming language, DSA, Competitive Programming.
+ 💬 Ask me about any Programming language, DSA, Competitive Programming.
 
  📫 How to reach me **yashbhayani3007@gmail.com**
  
@@ -85,19 +85,23 @@
 
 </div>
 
-</p>
-👨🏼‍🤝‍👨🏼 Connect with me:
-<p align="left">
+<br>
+
+<div align="center">
+ 
+   <pre>👨🏼‍🤝‍👨🏼 C O N N E C T  W I T H   M E</pre>
+
 <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/yashbhayani18"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/@Yashbhayani18"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a> 
-</p>
+</div>
 
 <div>
  <div align="center">
     <pre>G I T H U B  S T A T S</pre>
  </div>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
+ </div>
 
 <div align="center">
 <!--     <pre>G I T H U B  S T A T S</pre> -->
