@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a>
 <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/0000ff/express-js.png"/></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
-
+<a href="https://flask.palletsprojects.com/en/2.3.x/"><img width="64" height="64" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/></a>
 <br>
 
 🗒️DataBase :
