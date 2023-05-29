@@ -13,16 +13,13 @@
  
  🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
  
-- 🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
+ 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+ 💬 Ask me about Any Programming Language problem.
 
-- 💬 Ask me about Any Programming Language problem.
-
-- 📫 How to reach me **yashbhayani3007@gmail.com**
-
-<!-- - 👨‍🎓 **Student at Sal College of Engineering** -->
- <div>
+ 📫 How to reach me **yashbhayani3007@gmail.com**
+ 
+</div>
 <br>
 <div align="center">
  <pre>👨‍💻 S K I L L S</pre>
