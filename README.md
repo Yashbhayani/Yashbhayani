@@ -28,13 +28,10 @@ Here are some ideas to get you started:
 <div align="center">
 🙋‍♂️ About Me
  <pre>🙋‍♂️ A B O U T M E</pre>
-    🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
-
-    👯 I’m looking to collaborate on **OpenSource Projects**
-
-    💬 Ask me about Any Programming Language problem.
-
-    📫 How to reach me **yashbhayani3007@gmail.com**
+ 🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
+ 👯 I’m looking to collaborate on **OpenSource Projects**
+ 💬 Ask me about Any Programming Language problem.
+ 📫 How to reach me **yashbhayani3007@gmail.com**
 <!-- - 🌱 I’m currently learning **Data Structures Algorithms and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
