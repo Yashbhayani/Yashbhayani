@@ -29,11 +29,10 @@
 <div align="center">
  
  <pre>👨‍💻 S K I L L S</pre> 
-<a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-<a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
 
+ <a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+ <a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-
  <a href="https://icons8.com/icon/45490/c-sharp-logo-2" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
