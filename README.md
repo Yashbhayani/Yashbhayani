@@ -97,10 +97,10 @@
 
 </div>
 
-<div>
- <div align="center">
+<br>
+
+<div align="center">
     <pre>G I T H U B  S T A T S</pre>
- </div>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
  </div>
 
