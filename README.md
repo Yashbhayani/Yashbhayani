@@ -104,7 +104,6 @@
  <pre>G I T H U B  S T A T S</pre>
 
  <a  align="center"  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
- 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" />
 
 </div>
@@ -114,8 +113,7 @@
 <div align="center">
  
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" />
- <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
-
+ <img align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
 
 </div>
 
