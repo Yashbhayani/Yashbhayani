@@ -100,17 +100,22 @@
 <br>
 
 <div align="center">
-    <pre>G I T H U B  S T A T S</pre>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
- </div>
+
+ <pre>G I T H U B  S T A T S</pre>
+
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a>
+ 
+</div>
+
+<br>
 
 <div align="center">
-<!--     <pre>G I T H U B  S T A T S</pre> -->
-    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/> </p>
-    <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" /></p>
-</div>
+ 
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashbhayani&show_icons=true&theme=tokyonight" alt="Yash bhayani" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbhayani" alt="Yash Bhayani" /></p>
 
 </div>
+
 
 
