@@ -37,7 +37,7 @@
 <div align="center">
  <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
- <br/><br/><br/>
+ <br/><br/>
 
  <pre>👨‍💻 S K I L L S</pre> 
 
