@@ -96,7 +96,7 @@
 
 <div align="center">
  
-   <pre>👨🏼‍🤝‍👨🏼 C O N N E C T  W I T H   M E</pre>
+   <pre>👨🏼‍🤝‍👨🏼 C O N N E C T  W I T H   M E  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></pre>
 
  <a href = "https://www.instagram.com/yashbhayani18"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
  <a href = "https://www.linkedin.com/in/yash-bhayani-3328b4195/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
