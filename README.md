@@ -126,5 +126,7 @@
 
 </div>
 
-
+ <br/>
+ <br/>
+ <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
