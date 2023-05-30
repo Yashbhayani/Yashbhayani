@@ -35,7 +35,8 @@
 <br>
 
 <div align="center">
- 
+  <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
+
  <pre>👨‍💻 S K I L L S</pre> 
 
  <a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
