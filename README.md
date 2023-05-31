@@ -32,7 +32,7 @@
  
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div align="center">
  <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
