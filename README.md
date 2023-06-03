@@ -20,7 +20,7 @@
 
 <div align="center">
  
- <pre>🙋‍♂️ A B O U T M E</pre>
+ <pre>🙋‍♂️ A B O U T  M E</pre>
  
  🌱 I’m currently learning **Machine Learning.**
  
