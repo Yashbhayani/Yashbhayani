@@ -47,21 +47,18 @@
  <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
  <a href="https://www.javascripttutorial.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
- <br/>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/>  </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/dotnet-283005.png?w=48"/> </a>
  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"  target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/></a>
  <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/spring-logo.png"/></a>
-  <br/>
  <a href="https://jquery.com/"><img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png"/></a>
  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
  <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/> </a>
  <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a>
  <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/0000ff/express-js.png"/></a>
-  <br/>
  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/></a>
  </div>
