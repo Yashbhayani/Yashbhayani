@@ -50,6 +50,7 @@
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
  <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/>  </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>  </a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/dotnet-283005.png?w=48"/> </a>
  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"  target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework"/></a>
  <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/spring-logo.png"/></a>
