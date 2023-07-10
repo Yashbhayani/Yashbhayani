@@ -62,8 +62,8 @@
  <a href="https://expressjs.com/"><img src="https://img.icons8.com/ios/50/0000ff/express-js.png"/></a>
  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/></a>
+ <a href="https://docs.flutter.dev/"><img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/></a>
  </div>
-
 
 
 <br/><br/><br/><br/>
